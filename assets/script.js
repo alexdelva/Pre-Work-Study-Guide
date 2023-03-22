@@ -7,6 +7,7 @@ function listTopics() {
     }
 }
 
+
 function selectTopic() {
     if (randomTopic === 'HTML') {
         console.log("Let's study HTML!")
